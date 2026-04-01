@@ -205,7 +205,7 @@ Luxury_Housing_Bangalore/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Page 1](Screenshots/page1.png)
+![Dashboard Page 1](Screenshots/Screenshot 2026-04-01 130352.png)
 ![Dashboard Page 2](Screenshots/page2.png)
 
 ## 🚀 How to Run the Project
