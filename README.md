@@ -206,7 +206,9 @@ Luxury_Housing_Bangalore/
 ## 📸 Dashboard Preview
 
 ![Dashboard Page 1](Screenshots/Screenshot 2026-04-01 130352.png)
-![Dashboard Page 2](Screenshots/page2.png)
+Dashboard Page 2 :  
+<img width="1420" height="799" alt="image" src="https://github.com/user-attachments/assets/8b8c80f7-a984-4b70-bbfd-e3cae0389e64" />
+
 
 ## 🚀 How to Run the Project
 
