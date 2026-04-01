@@ -57,7 +57,7 @@ Raw CSV Data → Python (Cleaning & Feature Engineering) → SQL Database → Po
 
   * `price_per_sqft`
   * `quarter_number`
-  * `Booking_Status` (derived using pricing logic)
+  * `Booking_Status` 
 
 ---
 
