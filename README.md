@@ -203,6 +203,11 @@ Luxury_Housing_Bangalore/
 
 ---
 
+## 📸 Dashboard Preview
+
+![Dashboard Page 1](Screenshots/page1.png)
+![Dashboard Page 2](Screenshots/page2.png)
+
 ## 🚀 How to Run the Project
 
 1. Clone the repository
